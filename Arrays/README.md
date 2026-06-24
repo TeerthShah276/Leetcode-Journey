@@ -11,8 +11,8 @@ This folder contains my solutions and notes for array problems.
 - Basic loops with arrays
 
 ## Questions Solved
-217. Contains Duplicate
-1. Two Sum 
+1. Contains Duplicate
+2. Two Sum 
 
 ## Progress
 Currently learning array basics and building problem-solving skills.
