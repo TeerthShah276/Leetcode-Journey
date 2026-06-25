@@ -17,8 +17,8 @@ Each file is named using the format:
 QuestionNumber-QuestionName.java
 
 Example:
-- 1-Two-Sum.java
-- 9-Palindrome-Number.java
-- 389-Find-the-Difference.java
+- 1.TwoSum.java
+- 9.PalindromeNumber.java
+- 389.FindtheDifference.java
 
 ⭐ Consistency over perfection. 
