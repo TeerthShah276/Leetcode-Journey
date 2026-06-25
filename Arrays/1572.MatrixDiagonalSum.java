@@ -1,3 +1,11 @@
+## Question: 1572. Matrix Diagonal Sum
+
+### Concept Learned
+- Sum of Primary and Secondary Diagonal 
+
+### What this question taught me
+- How to not repeat sum of centre element
+
 class Solution {
     public int diagonalSum(int[][] mat) {
 
