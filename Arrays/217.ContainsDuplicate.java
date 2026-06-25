@@ -1,3 +1,12 @@
+## Question: 217 - Contains Duplicate 
+
+### Concept Learned
+- Time Complexity O(n)
+- TLE in O(n2)
+
+### What this question taught me
+- How to check whether array  has a duplicate or not 
+
 import java.util.*;
 
 class Solution {
