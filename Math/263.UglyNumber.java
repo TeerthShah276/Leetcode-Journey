@@ -1,9 +1,3 @@
-## Question: 263.Ugly Number  
-
-### Concept Learned
-- how to find factors 
-
-
 class Solution {
     public boolean isUgly(int n) {
 
