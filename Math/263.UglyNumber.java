@@ -1,3 +1,9 @@
+## Question: 263.Ugly Number 
+
+### Concept Learned
+- Modulo Operator 
+
+
 class Solution {
     public boolean isUgly(int n) {
 
